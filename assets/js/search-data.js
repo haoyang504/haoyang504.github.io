@@ -440,16 +440,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-first-try-to-modify-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'First try to modify! A simple inline announcement with Markdown emoji! :sparkles: :smile:...',
+          description: "",
+          section: "News",},{id: "news-started-my-phd-journey-at-ut-austin",
+          title: 'Started my PhD journey at UT Austin!',
+          description: "",
+          section: "News",},{id: "news-our-paper-sdoh-gpt-using-large-language-models-to-extract-social-determinants-of-health-is-pubished-in-jamia",
+          title: 'Our paper “SDoH-GPT: using large language models to extract social determinants of health”...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
