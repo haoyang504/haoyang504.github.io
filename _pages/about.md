@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>Beijing - Austin</p>
+    <p>haoyangwang@utexas.edu</p>
     <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -35,6 +35,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-Outside of research, I enjoy volleyball, traveling, photography. My Chinese name is 王昊扬.
+Outside of research, I enjoy playing volleyball, traveling, and photography. My Chinese name is 王昊扬.
 
 
