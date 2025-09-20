@@ -44,7 +44,45 @@ body.sticky-bottom-footer {
  * Publications
  ******************************************************************************/
 
-// TODO: redefine publications layout.
+/******************************************************************************
+ * Publications
+ ******************************************************************************/
+.publications {
+  .row {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .col-sm-2 {
+    flex: 0 0 auto !important; // Keep badge column fixed width
+    max-width: 150px; // Adjust this width as needed
+    margin-right: 1rem;
+  }
+  
+  .col-sm-8 {
+    flex: 1 !important; // Take remaining space
+    max-width: none !important;
+    
+    .title {
+      margin-bottom: 0.3rem;
+    }
+    
+    .author {
+      font-size: 0.9rem;
+      margin-bottom: 0.2rem;
+      max-width: 92%; // Control where author text wraps
+
+    }
+    
+    .periodical {
+      font-size: 0.9rem;
+      margin-bottom: 0rem;
+      max-width: 92%; // Control where author text wraps
+
+    }
+  }
+}
+
 
 /*****************************************************************************
 * Projects
