@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Information Science, University of Texas at Austin
-
+subtitle: >
+    PhD Student in Information Science, University of Texas at Austin
 profile:
   align: right
   image: haoyang.jpg

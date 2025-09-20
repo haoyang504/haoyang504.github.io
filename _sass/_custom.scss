@@ -5,3 +5,8 @@
   border-bottom: 0.3px solid currentColor; /* Ultra thin */
   padding-bottom: 1px;
 }
+
+.profile-social .contact-icons.small-icons a {
+  font-size: 0.5rem; /* Makes icons even smaller */
+  margin: 0 6px;
+}
