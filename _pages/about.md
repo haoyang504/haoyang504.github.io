@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-    PhD Student in Information Science, University of Texas at Austin
+    PhD Student in Information Science, <a href="https://www.utexas.edu/">University of Texas at Austin</a>
 profile:
   align: right
   image: haoyang.jpg
@@ -24,8 +24,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a second-year PhD student at [AI Health Lab](https://aihealth.ischool.utexas.edu/) in the School of Information, UT Austin, advised by Prof. [Ying Ding](https://yingding.ischool.utexas.edu/). Prior to joining UT Austin, I did my bachelor's in the Department of Information Management at Peking University where I was honored to be advised by Dr. [Yi Bu](https://buyi08.wixsite.com/yi-bu).
+I am a second-year PhD student at [AI Health Lab](https://aihealth.ischool.utexas.edu/) in the School of Information, UT Austin, advised by Prof. [Ying Ding](https://yingding.ischool.utexas.edu/). Prior to joining UT Austin, I received my bachelor's degree from the Department of Information Management, Peking University in 2024, where I was honored to be advised by Dr. [Yi Bu](https://buyi08.wixsite.com/yi-bu).
 
+
+My research interest lies at the intersection of Large language models, Healthcare applications, and Computational social science (e.g. Science of science).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

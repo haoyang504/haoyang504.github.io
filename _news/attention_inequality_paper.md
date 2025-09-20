@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted at Information Processing & Management (IPM).
+One [paper](https://www.sciencedirect.com/science/article/pii/S0306457325001116) was accepted at Information Processing & Management (IPM).
