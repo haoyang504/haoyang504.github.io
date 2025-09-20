@@ -6,16 +6,15 @@ subtitle: >
     PhD Student in Information Science, <a href="https://www.utexas.edu/">University of Texas at Austin</a>
 profile:
   align: right
-  image: haoyang.jpg
+  image: haoyang_small.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><i class="fa-solid fa-location-dot"></i> Beijing - Austin</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: true # inc ludes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -23,19 +22,20 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+teaching_and_service:
+  enabled: true
 ---
 I am a second-year PhD student at [AI Health Lab](https://aihealth.ischool.utexas.edu/) in the School of Information, UT Austin, advised by Prof. [Ying Ding](https://yingding.ischool.utexas.edu/). Prior to joining UT Austin, I received my bachelor's degree from the Department of Information Management, Peking University in 2024, where I was honored to be advised by Dr. [Yi Bu](https://buyi08.wixsite.com/yi-bu).
 
 
-My research interest lies at the intersection of Large language models, Healthcare applications, and Computational social science (e.g. Science of science).
+My research interest broadly lies in Human-AI collaboration, specifically:
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+- Large language models: Agents, Chatbots
+- Healthcare: LLM-assisted applications for clinicians or patients
+- Computational social science: Science of science
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
-Outside of research, I enjoy playing volleyball, traveling, and photography. My Chinese name is 王昊扬.
+Outside of research, I enjoy playing volleyball, traveling (especially on trains!), and photography. My Chinese name is 王昊扬.
 
   
 

@@ -71,6 +71,12 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Teaching and Service -->
+    {% if page.teaching_and_service and page.teaching_and_service.enabled %}
+      <h2>Teaching</h2>
+      {% include teaching_and_service.liquid %}
+    {% endif %}
+
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}

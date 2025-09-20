@@ -1,0 +1,65 @@
+<!-- Teaching & Service Section -->
+<div class="teaching-service">
+  <style>
+    /* Make each table row exactly one line tall */
+    .teaching-service .table-sm {
+      line-height: 1.5;            /* choose your line height */
+    }
+    .teaching-service .table-sm th,
+    .teaching-service .table-sm td {
+      padding-block: 0.5rem;       /* no vertical padding, keeps rows = 1 line */
+      padding-inline: 0.5rem;      /* keep some horizontal padding */
+      vertical-align: baseline;
+    }
+    /* Scroll area height = 10 full lines (no half line cut) */
+    .teaching-service .news-scroll {
+      max-block-size: calc(10 * 1lh);  /* 10 lines tall */
+      overflow-y: auto;
+      padding-right: 0.5rem;          /* keeps scrollbar off text */
+    }
+
+    /* Fallback for browsers without 1lh support (approximate) */
+    @supports not (height: 1lh) {
+      .teaching-service .news-scroll {
+        max-block-size: calc(10 * 1.5em);  /* 10 lines * line-height */
+      }
+    }
+  </style>
+
+  <!-- Teaching Experience -->
+  <!--  <h4>Teaching</h4>  -->
+  <div class="table-responsive news-scroll">
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row" style="width: 30%">Fall 2025</th>
+        <td>Teaching Assistant - Database Management, UT Austin</td>
+      </tr>
+      <tr>
+        <th scope="row" style="width: 30%">Spring 2024 & Summer 2023</th>
+        <td>Teaching Assistant - Data Visualization, Peking University</td>
+      </tr>
+      <!-- Add more teaching entries here -->
+    </table>
+  </div>
+  <div style="height:0.5lh;"></div>
+
+  <!--
+  Service section commented out
+  <h4>Service</h4>
+  <div class="table-responsive news-scroll">
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row" style="width: 20%">2024-present</th>
+        <td>Student Representative - School of Information Graduate Committee</td>
+      </tr>
+      <tr>
+        <th scope="row" style="width: 20%">2024</th>
+        <td>Reviewer - Conference on Information Science</td>
+      </tr>
+      Add more service entries here
+    </table>
+  </div>
+  <div style="height:0.5lh;"></div>
+  -->
+
+</div>
