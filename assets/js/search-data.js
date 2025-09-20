@@ -44,21 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -426,25 +412,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-first-try-to-modify-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'First try to modify! A simple inline announcement with Markdown emoji! :sparkles: :smile:...',
-          description: "",
-          section: "News",},{id: "news-graduated-from-peking-university",
+            },},{id: "news-graduated-from-peking-university",
           title: 'Graduated from Peking University!',
           description: "",
           section: "News",},{id: "news-started-my-phd-journey-at-ut-austin",
           title: 'Started my PhD journey at UT Austin!',
           description: "",
-          section: "News",},{id: "news-our-paper-the-attention-inequality-of-scientists-a-core-periphery-structure-perspective-is-pubished-in-information-processing-amp-amp-management",
-          title: 'Our paper “The attention inequality of scientists: A core-periphery structure perspective” is pubished...',
+          section: "News",},{id: "news-one-paper-was-accepted-at-information-processing-amp-amp-management-ipm",
+          title: 'One paper was accepted at Information Processing &amp;amp;amp; Management (IPM).',
           description: "",
-          section: "News",},{id: "news-our-paper-sdoh-gpt-using-large-language-models-to-extract-social-determinants-of-health-is-pubished-in-jamia",
-          title: 'Our paper “SDoH-GPT: using large language models to extract social determinants of health”...',
+          section: "News",},{id: "news-one-paper-was-accepted-at-the-journal-of-the-american-medical-informatics-association-jamia",
+          title: 'One paper was accepted at The Journal of the American Medical Informatics Association...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
