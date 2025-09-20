@@ -8,7 +8,7 @@ profile:
   align: right
   image: haoyang_small.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: >
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +26,7 @@ latest_posts:
 teaching_and_service:
   enabled: true
 ---
-I am a second-year PhD student at [AI Health Lab](https://aihealth.ischool.utexas.edu/) in the School of Information, UT Austin, advised by Prof. [Ying Ding](https://yingding.ischool.utexas.edu/). Prior to joining UT Austin, I received my bachelor's degree from the Department of Information Management, Peking University in 2024, where I was honored to be advised by Dr. [Yi Bu](https://buyi08.wixsite.com/yi-bu).
+I am a second-year PhD student at [AI Health Lab](https://aihealth.ischool.utexas.edu/) in the School of Information, UT Austin, advised by Prof. [Ying Ding](https://yingding.ischool.utexas.edu/). Prior to joining UT Austin, I received my bachelor's degree from the Department of Information Management, [Peking University](https://english.pku.edu.cn/) in 2024, where I was honored to be advised by Dr. [Yi Bu](https://buyi08.wixsite.com/yi-bu).
 
 
 My research interest broadly lies in Human-AI collaboration, specifically:
