@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-6-20
+date: 2025-6-2
 inline: true
 related_posts: false
 ---
 
-Our paper "SDoH-GPT: using large language models to extract social determinants of health" is pubished in JAMIA.
+One paper was accepted at The Journal of the American Medical Informatics Association (JAMIA).

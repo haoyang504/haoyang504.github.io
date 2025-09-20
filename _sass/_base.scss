@@ -1423,3 +1423,14 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// Keep paper titles black and remove hover effects
+.publications .title a {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
+.publications .title a:hover {
+  color: #000 !important;
+  text-decoration: none !important;
+}
