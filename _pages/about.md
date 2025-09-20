@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: >
     PhD Student in Information Science, <a href="https://www.utexas.edu/">University of Texas at Austin</a>
