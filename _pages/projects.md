@@ -3,7 +3,7 @@ layout: page
 title: Photography
 permalink: /photography/
 description: My memories.
-nav: true
+nav: false
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false
