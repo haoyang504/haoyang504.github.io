@@ -29,11 +29,8 @@ teaching_and_service:
 I am a second-year PhD student at [AI Health Lab](https://aihealth.ischool.utexas.edu/) in the School of Information, UT Austin, advised by Prof. [Ying Ding](https://yingding.ischool.utexas.edu/). Prior to joining UT Austin, I received my bachelor's degree from the Department of Information Management, [Peking University](https://english.pku.edu.cn/) in 2024, where I was honored to be advised by Dr. [Yi Bu](https://buyi08.wixsite.com/yi-bu).
 
 
-My research interest broadly lies in Human-AI collaboration, specifically:
+My research broadly focuses on Human-AI collaboration, with particular attention to how large language models can be designed and evaluated for meaningful impact in healthcare and scientific research, as well as how people perceive, use, and envision these tools.
 
-- Large language models: Agents, Chatbots
-- Healthcare: LLM-assisted applications for clinicians or patients
-- Computational social science: Science of science
 
 Outside of research, I enjoy playing volleyball, traveling (especially on trains!), and photography. My Chinese name is 王昊扬.
 
