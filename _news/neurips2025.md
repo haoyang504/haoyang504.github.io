@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One [poster](https://openreview.net/forum?id=rgWjc7JhKW) was accepted at the [GenAI4Health workshop](https://genai4health.github.io/) @ NeurIPS 2025.
+One [paper](https://openreview.net/forum?id=rgWjc7JhKW) was accepted at the [GenAI4Health workshop](https://genai4health.github.io/) @ NeurIPS 2025.
